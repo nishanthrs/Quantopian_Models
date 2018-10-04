@@ -8,9 +8,7 @@ There will be a collection of various and diverse trading models in this reposit
 All backtesting is executed on the Quantopian platform. Results will be documented in this file.
 
 ## Quant Workflow
-The workflow of how these models are built from scratch, deployed, tested, and iterated upon is listed below:
-
-![Quant Workflow](https://media.quantopian.com/blog/cio-blog-image-2x-1.png)
+The workflow of how these models are built from scratch, deployed, tested, and iterated upon is listed at this [site](https://blog.quantopian.com/a-professional-quant-equity-workflow/). 
 
 ## Machine Learning Workflow
 In order to generate the alpha signals to decide what equities to go long or short on, some models will use machine learning algorithms. Although there are plenty of machine learning techniques, the workflow boils down to:
